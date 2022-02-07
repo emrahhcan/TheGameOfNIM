@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
-#include <vector>   /* Vector */
-#include <stdlib.h> /* srand, rand */
-#include <time.h>   /* time */
+#include <vector>
+#include <stdlib.h>
+#include <time.h> 
 using namespace std;
 
 // Global Variables - Dynamic Values
