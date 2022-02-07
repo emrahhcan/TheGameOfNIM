@@ -38,7 +38,6 @@ int main()
     int chooseSettings;
     string settings =
         "Play Against to Computer (1) | Play in Two Players (2) | Quit (3)";
-
     cout << endl;
     cout << settings << endl;
     cout << lineForSettings;
