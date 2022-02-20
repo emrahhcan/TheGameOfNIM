@@ -15,6 +15,6 @@ IIIIIII
 
 The rules of the game are as follows
 
-- The game is played in turns,
+- The game is played in turns.
 - The player can remove matchsticks from only single row in their turn. They can remove any numbers of matchstick from the selected row. How- ever, they cannot remove matchsticks from multiple rows in one turn.
 - The player who removes the last matchstick losses the game.
